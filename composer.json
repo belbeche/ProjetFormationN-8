@@ -1,0 +1,19 @@
+{
+    "name": "acs/my-app",
+    "description": "Project school n\u00008",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Walid BELBECHE",
+            "email": "wbelbeche.S@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/",
+            "App\\": "app/",
+            "Database\\": "database/"
+        }
+    },
+    "require": {}
+}

@@ -1,0 +1,12 @@
+<h1>Home page Annonce </h1>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae vitae assumenda inventore fugiat quod iusto illum voluptatem dolore sequi natus molestias nihil, consequatur quia impedit nulla modi mollitia adipisci fuga!
+    Libero voluptates possimus aliquid voluptate vel, obcaecati asperiores nam reiciendis tempore iure. Pariatur, ipsa, eligendi est quam fugiat consectetur totam magnam eius cupiditate eum libero voluptatum optio cum numquam maxime?
+    Aperiam officia suscipit fugiat architecto itaque natus placeat alias, voluptate veniam, nostrum, nihil ad numquam labore libero repellat distinctio sequi magni dolorum harum repudiandae quasi nisi id aliquid. Sunt, alias.
+    Molestias quia mollitia modi! Molestiae ut, earum tenetur nostrum ducimus quis animi soluta rerum esse quam nihil modi delectus assumenda optio pariatur molestias eveniet recusandae aut dignissimos error perspiciatis? Dolore.
+    Ducimus velit non explicabo odit harum? Ipsam nulla reiciendis facilis earum laudantium, cupiditate excepturi repudiandae voluptate. Dolorum omnis aliquam, minus numquam cupiditate animi quam reiciendis pariatur eveniet, quae harum maiores.
+    Illum, nostrum ab. Ullam doloremque culpa minus aliquid veritatis reiciendis natus tenetur, sapiente quos magnam quo perspiciatis totam corrupti. Repudiandae rerum inventore veritatis minima fuga iusto fugit dolorum, magni quae.
+    Quos doloribus mollitia saepe similique fugit. Reiciendis reprehenderit quisquam laboriosam corrupti soluta natus hic culpa sit ad provident optio possimus, est harum vitae unde delectus neque? Eius officiis maiores quisquam.
+    Fugiat, facere porro voluptates aut magni necessitatibus nisi accusantium, quis labore distinctio sed? Labore, aspernatur veritatis natus consectetur est possimus iste deserunt reprehenderit reiciendis maxime ad officiis, repudiandae quam ipsum.
+    Quia fugiat necessitatibus, repellat totam, mollitia quibusdam, consequuntur nobis id ratione consequatur numquam quas. Culpa atque, obcaecati voluptatem libero facilis commodi nobis quam error minima, ducimus nam dolorum odio odit.
+    Aliquid aut consequatur nemo fuga assumenda similique placeat sed totam nihil ullam doloribus eaque repudiandae culpa minus autem vero quam, officia, magni praesentium laborum nulla? Nulla dicta dignissimos fuga mollitia.</p>
